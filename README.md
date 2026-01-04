@@ -1,8 +1,8 @@
 <h1 align="center">
-  <font size="7">Hi 👋, I'm Vineet Gawali</font>
+  <font size="10">Hi 👋, I'm Vineet Gawali</font>
 </h1>
 <h3 align="center">
-  <font size="6">AI & Data Science Student | Aspiring GenAI Engineer | Data science explorer</font>
+  <font size="8">AI & Data Science Student | Aspiring GenAI Engineer | Data science explorer</font>
 </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vineet-777&label=Profile%20views&color=0e75b6&style=flat" alt="vineet-777" /> </p>
 
