@@ -17,7 +17,6 @@
 
 - 💬 Ask me about **building and deploying generative AI applications, LLM integration, RAG systems, prompt engineering, and scalable AI solutions.**
 
-- 📫 How to reach me **vineetgavali24@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
