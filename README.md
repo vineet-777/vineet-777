@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vineet Gawali</h1>
-<h3 align="center">GenAI Engineer | AI & Data Science Student |  Data Science Explorer</h3>
+<h3 align="center">GenAI Engineer | AI & Data Science Student</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vineet-777&label=Profile%20views&color=0e75b6&style=flat" alt="vineet-777" />
