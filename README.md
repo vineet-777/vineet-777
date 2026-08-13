@@ -32,8 +32,8 @@
 ## 📊 GitHub Stats:
 <table>
   <tr>
-    <td width="50%"><img width="100%" src="https://github-stats-extended.vercel.app/api?username=vineet-777&theme=dark&hide_border=true&include_all_commits=true&count_private=false" alt="Vineet's GitHub stats" /></td>
-    <td width="50%"><img width="100%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=vineet-777&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Vineet's Top Languages" /></td>
+    <td width="60%"><img width="100%" src="https://github-stats-extended.vercel.app/api?username=vineet-777&theme=dark&hide_border=true&include_all_commits=true&count_private=false" alt="Vineet's GitHub stats" /></td>
+    <td width="60%"><img width="100%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=vineet-777&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Vineet's Top Languages" /></td>
   </tr>
 </table>
 
